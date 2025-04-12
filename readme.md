@@ -7,7 +7,7 @@ Easily add, view, search, and delete books with custom fields like genre, rating
 
 ## 🌐 Live App
 
-🔗 **Deployed here:** [(https://simple-library-manager.streamlit.app/)]
+🔗 **Deployed here:** [https://simple-library-manager.streamlit.app/]
 
 ---
 
