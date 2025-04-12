@@ -7,7 +7,7 @@ Easily add, view, search, and delete books with custom fields like genre, rating
 
 ## 🌐 Live App
 
-🔗 **Deployed here:** [Add your Streamlit Cloud or deployment link](#)
+🔗 **Deployed here:** [simple-library-manager]([#](https://simple-library-manager.streamlit.app/))
 
 ---
 
